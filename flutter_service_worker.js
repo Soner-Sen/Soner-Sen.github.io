@@ -3,14 +3,15 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "2ce855692ddfb9d03c6ab86754c7bdfe",
-"assets/AssetManifest.bin.json": "b9a19290c98e1bd1a585d9c1d651ff3b",
-"assets/AssetManifest.json": "456ecaf9cb0cd07feb413d3ce39af7fe",
+const RESOURCES = {"assets/AssetManifest.bin": "f1b3be5d0ea05d7f493639a088ad944a",
+"assets/AssetManifest.bin.json": "3efc56e5c08d664d2f8a7ab1be619795",
+"assets/AssetManifest.json": "60f9da9caadf9c92cd8fdbb81a507745",
 "assets/assets/images/about.jpg": "564390b5614c04dd454ef415e2344e9b",
 "assets/assets/images/aboutprivat.jpg": "34f953202e818814ed63dd7e6b1ce145",
 "assets/assets/images/aboutzocken1.jpg": "6bfc6302efb60fc32678b21d4f7a0af1",
 "assets/assets/images/aboutzocken2.jpg": "600ae3cbcffb545350f35c56863a6074",
 "assets/assets/images/aboutzocken3.jpg": "2311ff60a6dd43a932474bfcaa1052a3",
+"assets/assets/images/arrow-down.png": "7a1743428ec78e4e6851f2cd2090600c",
 "assets/assets/images/arrow_up.png": "2714c488d5f9e27803f65da1bea8f527",
 "assets/assets/images/car_showcase.png": "023bd180f531ae56ce7444d1683febda",
 "assets/assets/images/contactMe.jpg": "83e6b8352624ef2fd7d17cf91d5738ae",
@@ -40,9 +41,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "2ce855692ddfb9d03c6ab86754c7bdfe
 "flutter.js": "59a12ab9d00ae8f8096fffc417b6e84f",
 "icons/NewLogo.png": "a8b3c98677e4247380f29a23870c404a",
 "image/NewLogo.png": "a8b3c98677e4247380f29a23870c404a",
-"index.html": "7ee23578ff6f886591d84baa1ea9b0ce",
-"/": "7ee23578ff6f886591d84baa1ea9b0ce",
-"main.dart.js": "7c638f593a38848c3d35f2dffcc99e35",
+"index.html": "53f13a5b783279504a272d1b159514b1",
+"/": "53f13a5b783279504a272d1b159514b1",
+"main.dart.js": "8a0a68268a0de3a1efd2f572bbe97213",
 "manifest.json": "3449283c8ce564dde3416a55bca6203a",
 "version.json": "eb38f9265d6df89fd261457e1fa91fc1"};
 // The application shell files that are downloaded before a service worker can
